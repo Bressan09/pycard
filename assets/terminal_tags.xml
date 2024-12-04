@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<terminal-tag-list>
+    <terminal-tag name="9F02" value="000000000001" meaning="Amount, Authorized"/>
+    <terminal-tag name="9F03" value="000000000000" meaning="Amount, Other"/>
+    <terminal-tag name="9F1A" value="0076" meaning="Terminal Country Code"/>
+    <terminal-tag name="95" value="0000000000" meaning="Terminal Verification Results (TVR)"/>
+    <terminal-tag name="5F2A" value="0986" meaning="Transaction Currency Code"/>
+    <terminal-tag name="9A" value="010101" meaning="Transaction Date"/>
+    <terminal-tag name="9C" value="00" meaning="Transaction Type"/>
+    <terminal-tag name="9F37" value="01020304" meaning="Unpredictable Number"/>
+    <terminal-tag name="9F35" value="12" meaning="Terminal Type"/>
+    <terminal-tag name="9F66" value="B7E0C800" meaning="Terminal Transaction Qualifier"/>
+</terminal-tag-list>
